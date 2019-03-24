@@ -1,3 +1,4 @@
 # First_one
 First repository to check github
-First only
+
+Here you will find all of my code samples. 
